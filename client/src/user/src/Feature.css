@@ -1,0 +1,75 @@
+h1 {
+    font-weight: bold;
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.feature-wrapper {
+    padding-top: 2.5rem;
+    padding-bottom: 3rem;
+    background: #FFFFFF;
+}
+
+.feature-button {
+    padding: 0.6rem 1.6rem;
+    font-size: 2rem;
+    color: black;
+    background: #F9B572;
+    font-weight: lighter;
+    border: none;
+    border-radius: 4px;
+    transition: all 300ms ease-in;
+}
+
+.feature-button:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.input {
+    padding: 1rem 2rem;
+    width: 60%;
+    margin-left: 12rem;
+}
+
+
+
+.feature-warpper2 {
+    width: 50vw;
+    height: 70vh;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    margin: 10px 0 10px 10px;
+}
+
+.feature-info {
+    display: flex;
+    justify-content: flex-start;
+    margin-right: auto;
+    flex-direction: column;
+    flex: 30%;
+}
+
+.feature-content {
+    height: 100%;
+    margin-left: 10px;
+    border-left: #131110 1px solid;
+    flex: 70%;
+    display: block;
+}
+
+.feature-progress {
+    margin: 10px;
+    width: auto;
+    height: max-content;
+    border: #131110 1px solid;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y:scroll;
+}
+
+ul{overflow:hidden; }
+
