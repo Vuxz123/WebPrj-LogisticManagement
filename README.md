@@ -38,3 +38,8 @@
 - Đăng nhập, đăng ký, đăng xuất.
 - Quản lý thông tin nhập xuất kho của đơn hàng.
 - Theo dõi đơn hàng.
+
+## Một số link hữu ích:
+- Git develop frontend: [link](https://github.com/Vuxz123/WebPrj-LogisticManagement-Frontend)
+- Git develop frontend-user: [link](https://github.com/HaTungAnh/WebPrj-LogisticManagement)
+- Git develop backend: [link](https://github.com/minhdn0404/MagicPost)
